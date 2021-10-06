@@ -1,0 +1,87 @@
+body{
+	background: beige;
+}
+.pres{
+	text-align: center;
+}
+.menu-nav ul{
+		background: coral;
+}
+.menu-nav ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+.menu-nav ul li:hover a{
+	color: coral;
+	background: royalblue;
+	transition: 0.3s all ;
+}
+nav.menu-nav ul li a{
+	color: royalblue;
+	text-decoration: none;
+	padding: 15px;
+	font-size: 105%;
+}
+h1{
+	color: royalblue;
+	text-shadow:2px 2px 5px red;
+	font-size: 300%;
+}
+ul{
+	font-size: 150%;
+}
+.tete{
+	color: slategray;
+	font-size: 200%;
+	text-decoration: underline;
+}
+.imageg{
+	padding-top: 15px;
+	width: 300px;
+	heght: 168px;
+	padding-left: 70px;
+}
+.ace{
+}
+.naruto{
+	width: 300px;
+	heigth: 168px; 	
+}
+.deku{
+	position: relative;
+	left: 1468px;
+	bottom: 377px;
+}
+.levi{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	left: 1468px;
+	bottom: 377px;
+}
+.meliodas{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	bottom: 361px; 
+}
+.gojo{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	left: 1468px;
+	bottom: 560px;
+}
+.aomine{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	bottom: 544px; 
+}
+.boruto{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	left: 1468px;
+	bottom: 758px; 
+}

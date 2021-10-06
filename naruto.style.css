@@ -1,0 +1,115 @@
+body{
+	background: beige;
+}
+.pres{
+	text-align: center;
+}
+.menu-nav ul{
+		background: coral;
+}
+.menu-nav ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+.menu-nav ul li:hover a{
+	color: coral;
+	background: royalblue;
+	transition: 0.3s all ;
+}
+nav.menu-nav ul li a{
+	color: royalblue;
+	text-decoration: none;
+	padding: 15px;
+	font-size: 105%;
+}
+h1{
+	color: royalblue;
+	text-shadow:2px 2px 5px red;
+	font-size: 300%;
+}
+ul{
+	font-size: 150%;
+}
+.tete{
+	color: slategray;
+	font-size: 200%;
+	text-decoration: underline;
+}
+.imageg{
+	padding-top: 15px;
+	width: 300px;
+	heght: 168px;
+	padding-left: 70px;
+}
+.naruto{	
+	width: 300px;
+	heigth: 168px;
+}
+span{
+	color: royalblue;
+	font-size: 120%;
+	font-family: cursive;
+	position: relative;
+	left: 750px;
+}
+.jiraya{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	bottom: 240px; 	
+}
+.sasuke{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	left: 1468px;
+	bottom: 625px;
+}
+.itachi{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	left: 1468px;
+	bottom: 615px;
+}
+p.link a{
+	font-size:120% ;
+	background: coral;
+	color: royalblue;
+	text-decoration: none;
+	position: relative;
+	left: 750px;
+	bottom: 550px;
+
+}
+p.link:hover a{
+	color: coral;
+	background: royalblue;
+	transition: 0.3s all ;
+}
+.obito{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	bottom: 793px; 
+}
+.minato{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	left: 1468px;
+	bottom: 980px;
+}
+.gai{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	bottom: 977px; 
+}
+.kyubi{
+	width: 300px;
+	heigth: 168px;
+	position: relative;
+	left: 1468px;
+	bottom: 1152px; 
+}

@@ -1,5 +1,7 @@
 body{
 	background: beige;
+	width: 100%;
+	height: auto;
 }
 .pres{
 	text-align: center;

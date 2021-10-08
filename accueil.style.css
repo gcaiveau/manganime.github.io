@@ -1,5 +1,12 @@
+html{
+	width: 100%;
+	height: auto;
+}
 body{
-	background: beige;w
+	background: beige;
+	width: 100%;
+	height: auto;
+	margin: auto;
 }
 .pres{
 	text-align: center;

@@ -5,34 +5,22 @@ body{
 	text-align: center;
 }
 .menu-nav ul{
-		background: coral;
-		width: 90%;
-		height: auto;
-		margin: auto;
+	background: coral;
 }
 .menu-nav ul li{
 	list-style-type: none;
 	display: inline-block;
-	width: 90%;
-	height: auto;
-	margin: auto;
 }
 .menu-nav ul li:hover a{
 	color: coral;
 	background: royalblue;
 	transition: 0.3s all;
-	width: 90%;
-	height: auto;
-	margin: auto;
 }
 nav.menu-nav ul li a{
 	color: royalblue;
 	text-decoration: none;
 	padding: 15px;
 	font-size: 105%;
-	width: 90%;
-	height: auto;
-	margin: auto;
 }
 h1{
 	color: royalblue;
